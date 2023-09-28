@@ -72,9 +72,9 @@
 }
 .two-colums{
   margin: auto;
-  align-items: center;
-  margin: 100px;
+  display: flex;
   width: 80%;
+  justify-content: space-between;
 }
 
 .two-colums__brief{
