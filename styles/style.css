@@ -7,6 +7,8 @@
 
 .header {
   display: flex;
+  flex-direction: column;
+  justify-content: center;
   position: relative;
   height: 100vh;
   min-height: 600px;
@@ -25,12 +27,8 @@
 
 .header__title{
   position: absolute;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   width: 730px;
   left: 64px;
-  z-index: 2;
   font-size: 102px;
   font-weight: bold;
 }
@@ -45,17 +43,13 @@
 }
 
 .header__link{
-  position: absolute;
-  z-index: 2;
-  width: 388px;
-  bottom: 30px;
-  left: 64px;
   font-size: 18px;
   color: #2f80ed;
 }
 
 .header__main-ilustation{
   position: absolute;
+  bottom: 0;
   right: 0;
   width: 756px;
   height: 608px;
@@ -68,6 +62,7 @@
   width: 568px;
   background-color:#2f80ed;
   right: 0;
+  top: 64px;
   z-index: 1;
 }
 
