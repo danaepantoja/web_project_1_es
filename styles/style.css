@@ -216,7 +216,7 @@
   color: white;
   text-align: center;
   z-index: 2;
-  margin: 90px auto 20px;;
+  margin: 90px auto 20px;
 }
 
 .section-subtitle_theme_dark{
@@ -231,7 +231,7 @@
 .table_theme_dark{
   row-gap: 80px;
   width: 1100px;
-  margin: 80px auto 90px
+  margin: 80px auto 90px;
 }
 
 .table__cell_theme_dark {
@@ -268,7 +268,6 @@
   width: 660px;
   height: 636px;
   top: 0;
-
 }
 
 .footer{
@@ -297,7 +296,7 @@
 .logo_place_footer{
   width: 183px;
   height: 35px;
-  Left: 0;
+  left: 0;
 }
 
 .footer_author{
