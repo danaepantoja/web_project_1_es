@@ -273,7 +273,6 @@
 
 .footer{
   display: flex;
-  position: relative;
   background-color: #000000;
   color: white;
 
@@ -291,12 +290,14 @@
   flex-basis: 711px;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: space-around;
+  position: relative;
 }
 
 .logo_place_footer{
   width: 183px;
   height: 35px;
+  Left: 0;
 }
 
 .footer_author{
@@ -306,16 +307,6 @@
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
-}
-
-.footer__column_content_about{
-  display: flex;
-  flex-direction: column;
-}
-
-.footer__column_content_social{
-  display: flex;
-  flex-direction: column;
 }
 
 .footer__column-heading{
@@ -333,10 +324,16 @@
   color: white;
   margin: 0;
   list-style: none;
+  display: flex;
+  flex-direction: column;
 }
 
-.footer__social-icon{
+.footer__column-link{
+  color: white;
+}
+
+.footer__social-icons{
   width: 16px;
   height: 16px;
-  right: 10px;
+  margin-right: 10px;
 }
