@@ -82,6 +82,7 @@
   right: 0;
   top: 64px;
   z-index: 1;
+  transform: rotate(-15deg);
 }
 
 .square_pic_type_rotation {
