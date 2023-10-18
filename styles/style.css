@@ -75,6 +75,11 @@
   text-decoration: none;
 }
 
+.header__link_typt_traslate:hover{
+  opacity: .6;
+  transform: translate(10px, 0px);
+}
+
 .header__main-ilustation{
   position: absolute;
   bottom: 0;
@@ -198,6 +203,7 @@
 
 .videos{
   padding-top: 100px;
+  margin-bottom: -60px;
 }
 
 .section-title__video{
@@ -341,6 +347,11 @@
   text-decoration: none;
 }
 
+.feyman__link_typt_traslate:hover{
+  opacity: .6;
+  transform: translate(10px, 0px);
+}
+
 .feynman__background-image{
  position: absolute;
  bottom: 0;
@@ -416,6 +427,11 @@
   font-size: 30px;
   font-weight: normal;
   text-decoration: none;
+}
+
+.khan__buy-link_typt_traslate:hover{
+  opacity: .6;
+  transform: translate(10px, 0px);
 }
 
 .kaufman{
@@ -572,6 +588,11 @@
 .footer__column-link{
   color: white;
   text-decoration: none;
+}
+
+.footer__column-link_typt_traslate:hover{
+  opacity: .6;
+  transform: translate(10px, 0px);
 }
 
 .footer__social-icons{
