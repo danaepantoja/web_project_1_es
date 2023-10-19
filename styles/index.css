@@ -56,7 +56,7 @@
 @import url(../blocks/table/__text_theme_dark/__text_theme_dark.css);
 @import url(../blocks/kaufman/__triangle/__triangle.css);
 @import url(../blocks/resources/resources.css);
-@import url(../blocks/section-title/__resources/__resources.css);
+@import url(../blocks/section-title/_resources/_resources.css);
 @import url(../blocks/resources/__logo-zone/logo-zone.css);
 @import url(../blocks/resources/__logo/__logo.css);
 @import url(../blocks/footer/footer.css);
