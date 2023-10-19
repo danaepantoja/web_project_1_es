@@ -1,1 +1,8 @@
-@import url();
+@import url(../blocks/cards/__description/__description.css);
+
+.cards__description{
+  line-height: 24px;
+  font-size: 18px;
+  font-weight: normal;
+  text-align: center;
+}

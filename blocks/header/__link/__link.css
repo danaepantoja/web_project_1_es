@@ -1,0 +1,13 @@
+@import url(../blocks/header/__link/__link.css);
+
+.header__link{
+  position: absolute;
+  width: 388px;
+  bottom: 30px;
+  left: 64px;
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
+  color: #2f80ed;
+  text-decoration: none;
+}

@@ -1,0 +1,9 @@
+@import url(../blocks/section-subtitle/__video/__video.css);
+
+.section-subtitle__video{
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  text-align: center;
+  margin: 20px 0 50px;
+}

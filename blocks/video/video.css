@@ -1,0 +1,7 @@
+@import url(../blocks/video/video.css);
+
+.video{
+  display: flex;
+  justify-content: space-around;
+  margin: auto;
+}

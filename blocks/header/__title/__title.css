@@ -1,0 +1,9 @@
+@import url(../blocks/header/__title/__title.css);
+
+.header__title{
+  position: absolute;
+  width: 730px;
+  left: 64px;
+  font-size: 102px;
+  font-weight: bold;
+}

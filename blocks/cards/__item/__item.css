@@ -1,0 +1,8 @@
+@import url(../blocks/cards/__item/__item.css);
+.cards__item{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  width: min-content;
+}
