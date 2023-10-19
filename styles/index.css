@@ -20,8 +20,8 @@
 @import url(../blocks/cards/__title/__title.css);
 @import url(../blocks/cards/__description/__description.css);
 @import url(../blocks/video/videos/videos.css);
-@import url(../blocks/section-title/__video/__video.css);
-@import url(../blocks/section-subtitle/__video/__video.css);
+@import url(../blocks/section-title/_video/_video.css);
+@import url(../blocks/section-subtitle/_video/_video.css);
 @import url(../blocks/video/video.css);
 @import url(../blocks/oakley/oakley.css);
 @import url(../blocks/two-colums/_oakley/_oakley.css);
@@ -76,6 +76,6 @@
 @import url(../blocks/logo/_place_footer/_place_footer.css);
 @import url(../blocks/kaufman/__triangle/__triangle_type_totation.css);
 @import url(../blocks/header/__link_type_traslate/__link_type_traslate.css);
-@import url(../blocks/feynman/__link_type_traslate/__link_type_traslate.css);
+@import url(../blocks/feynman/_link_type_traslate/_link_type_traslate.css);
 @import url(../blocks/khan/__buy-link_type_traslate/__buy-link_type_traslate.css);
 @import url(../blocks/footer/__column-link_typt_traslate/__column-link_typt_traslate.css);
