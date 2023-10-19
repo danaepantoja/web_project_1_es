@@ -1,5 +1,3 @@
-@import url(../blocks/header/__title/__title.css);
-
 .header__title{
   position: absolute;
   width: 730px;

@@ -1,4 +1,3 @@
-@import url(../blocks/footer/__columns/__columns.css);
 .footer__columns{
   display: flex;
   min-height: 350px;

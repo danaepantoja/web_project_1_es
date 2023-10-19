@@ -1,4 +1,3 @@
-@import url(../blocks/cards/__image/__image.css);
 .cards__image{
   object-fit: cover;
   border-radius: 50%;

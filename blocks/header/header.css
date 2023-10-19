@@ -1,5 +1,3 @@
-@import url(../blocks/header/header.css);
-
 .header {
   display: flex;
   flex-direction: column;
