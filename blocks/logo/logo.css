@@ -1,0 +1,9 @@
+@import url(../blocks/logo/logo.css);
+.logo{
+  position: absolute;
+  height: 31px;
+  width: 154px;
+  top: 30px;
+  left: 64px;
+  z-index: 2;
+}

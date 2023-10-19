@@ -69,8 +69,9 @@
 @import url(../blocks/footer/__social-icons/__social-icons.css);
 @import url(../blocks/oakley/__paragraph/__paragraph.css);
 @import url(../blocks/oakley/__title/__title.css);
-
-
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/rotación/__triangle_type_rotation/__triangle_type_rotation.css);
+@import url(../blocks/rotación/__square-pic_type_rotation/__square-pic_type_rotation.css);
 
 
 @keyframes square-pic_type_rotation {
@@ -113,14 +114,14 @@
  */
 
 
-.logo{
+/* .logo{
   position: absolute;
   height: 31px;
   width: 154px;
   top: 30px;
   left: 64px;
   z-index: 2;
-}
+} */
 
 /* .header__title{
   position: absolute;
@@ -177,9 +178,9 @@
   transform: rotate(-15deg);
 } */
 
-.header__square-pic_type_rotation {
+/* .header__square-pic_type_rotation {
   animation: square-pic_type_rotation 20s linear infinite;
-}
+} */
 
 /* .description{
    padding-top: 100px;
