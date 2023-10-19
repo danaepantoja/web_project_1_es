@@ -58,7 +58,7 @@
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/section-title/_resources/_resources.css);
 @import url(../blocks/resources/__logo-zone/logo-zone.css);
-@import url(../blocks/resources/__logo/__logo.css);
+@import url(../blocks/resources/_logo/_logo.css);
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__columns/__columns.css);
 @import url(../blocks/footer/__columns_content_copyright/__columns_content_copyright.css);
