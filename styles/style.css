@@ -75,29 +75,7 @@
 @import url(../blocks/rotación/rotacion.css);
 @import url(../blocks/logo/_place_footer/_place_footer.css);
 @import url(../blocks/kaufman/__triangle/__triangle_type_totation.css);
-
-
-.header__link_typt_traslate:hover{
-  opacity: .6;
-  transform: translate(10px, 0px);
-}
-
-
-
-.feyman__link_typt_traslate:hover{
-  opacity: .6;
-  transform: translate(10px, 0px);
-}
-
-
-.khan__buy-link_typt_traslate:hover{
-  opacity: .6;
-  transform: translate(10px, 0px);
-}
-
-
-.footer__column-link_typt_traslate:hover{
-  opacity: .6;
-  transform: translate(10px, 0px);
-}
-
+@import url(../blocks/header/__link_type_traslate/__link_type_traslate.css);
+@import url(../blocks/feynman/__link_type_traslate/__link_type_traslate.css);
+@import url(../blocks/khan/__buy-link_type_traslate/__buy-link_type_traslate.css);
+@import url(../blocks/footer/__column-link_typt_traslate/__column-link_typt_traslate.css);
