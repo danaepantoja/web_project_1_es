@@ -24,7 +24,7 @@
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
-.header {
+/* .header {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -35,6 +35,8 @@
   background-color: #f2f2f2;
   overflow: hidden;
 }
+ */
+ @import url(../blocks/header/header.css);
 
 .logo{
   position: absolute;
