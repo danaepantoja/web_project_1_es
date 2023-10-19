@@ -67,7 +67,8 @@
 @import url(../blocks/footer/__list/__list.css);
 @import url(../blocks/footer/__column-link/__column-link.css);
 @import url(../blocks/footer/__social-icons/__social-icons.css);
-
+@import url(../blocks/oakley/__paragraph/__paragraph.css);
+@import url(../blocks/oakley/__title/__title.css);
 
 
 
@@ -317,15 +318,15 @@
 
 }
  */
-.title__oakley{
+/* .oakley__title{
   width: 175px;
   line-height: 1.2;
   font-size: 18px;
   color: blue;
   margin-top: 30px;
-}
+} */
 
-.paragraph__oakley{
+/* .oakley__paragraph{
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
@@ -333,7 +334,7 @@
   width: 80%;
   min-width: 784px;
   flex-direction: column;
-}
+} */
 /* .digits{
   padding-bottom: 100px;
 } */

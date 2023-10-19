@@ -1,0 +1,10 @@
+@import url(../blocks/oakley/__paragraph/__paragraph.css);
+.oakley__paragraph{
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  margin-bottom: 30px;
+  width: 80%;
+  min-width: 784px;
+  flex-direction: column;
+}
