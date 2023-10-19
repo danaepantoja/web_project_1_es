@@ -1,0 +1,9 @@
+@import url(../blocks/table/__heading_theme_dark/__heading_theme_dark.css);
+.table__heading_theme_dark{
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+  margin: 0;
+  z-index: 1;
+}

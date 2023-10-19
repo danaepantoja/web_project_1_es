@@ -1,0 +1,7 @@
+@import url(../blocks/khan/__quote-author/__quote-author.css);
+.khan__quote-author{
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}

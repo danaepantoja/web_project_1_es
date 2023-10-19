@@ -1,0 +1,5 @@
+@import url(../blocks/resources/__logo/__logo.css);
+.resources__logo{
+  height: 38px;
+  width: 270px;
+}

@@ -1,0 +1,8 @@
+@import url(../blocks/footer/__columns/__columns.css);
+.footer__columns{
+  display: flex;
+  min-height: 350px;
+  width: 90%;
+  margin: 60px auto 40px;
+  justify-content: space-between;
+}

@@ -1,0 +1,6 @@
+@import url(../blocks/section-title/__resources/__resources.css);
+.section-title__resources{
+  margin-top: 0;
+  margin-bottom: 20px;
+  font-weight: bold;
+}

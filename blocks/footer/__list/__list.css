@@ -1,0 +1,11 @@
+@import url(../blocks/footer/__list/__list.css);
+.footer__list{
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
+  color: white;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+}
