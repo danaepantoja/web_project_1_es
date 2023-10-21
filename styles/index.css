@@ -1,3 +1,4 @@
+@import url(../styles/normalize.css);
 @import url(../blocks/page/index.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__title/__title.css);
@@ -79,3 +80,4 @@
 @import url(../blocks/feynman/__link_type_traslate/__link_type_traslate.css);
 @import url(../blocks/khan/__buy-link_type_traslate/__buy-link_type_traslate.css);
 @import url(../blocks/footer/__column-link_typt_traslate/__column-link_typt_traslate.css);
+@import url(../blocks/logo/__logo-zone_typt_traslate/__logo-zone_typt_traslate.css);
