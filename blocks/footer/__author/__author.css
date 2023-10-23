@@ -1,9 +1,8 @@
-.footer_author{
+.footer__author{
   margin-top: 18px;
   margin-bottom: 18px;
-  color: white;
+  color: #F2F2F2;
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
-  opacity: .6;
 }

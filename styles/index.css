@@ -63,7 +63,7 @@
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__columns/__columns.css);
 @import url(../blocks/footer/__columns_content_copyright/__columns_content_copyright.css);
-@import url(../blocks/footer/_author/_author.css);
+@import url(../blocks/footer/__author/__author.css);
 @import url(../blocks/footer/__column-heading/__column-heading.css);
 @import url(../blocks/footer/__list/__list.css);
 @import url(../blocks/footer/__column-link/__column-link.css);
